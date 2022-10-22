@@ -40,3 +40,8 @@ public class Pessoa
     public int Email { get; set; }
 }
 ```
+
+### Inserindo uma lista de tarefa
+
+- [x] Css do rodapé
+- [] Tela de login
