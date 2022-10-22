@@ -29,3 +29,14 @@ __melhoria 1__, _melhoria 2_
 
 
 [<img src="img/Github Header.png" width="200" alt="GitHub">](https://github.com/fabioramosalves)
+
+
+### Código exemplo c#
+```c#
+public class Pessoa
+{
+    public int Id { get; set; }
+    public int Name { get; set; }
+    public int Email { get; set; }
+}
+```
