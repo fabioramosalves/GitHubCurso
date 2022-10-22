@@ -23,3 +23,7 @@ __melhoria 1__, _melhoria 2_
 
 
 <img src="img/Github Header.png" width="200" alt="GitHub">
+
+
+["Linkedin"](https://www.linkedin.com/in/fabio-ramos-alves-28013271/)
+
