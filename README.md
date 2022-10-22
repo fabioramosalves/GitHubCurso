@@ -22,10 +22,10 @@ __melhoria 1__, _melhoria 2_
 3. Sistema de bônus primeira compra
 
 
-<img src="img/Github Header.png" width="200" alt="GitHub">
+<!--<img src="img/Github Header.png" width="200" alt="GitHub">-->
 
 
 [Linkedin](https://www.linkedin.com/in/fabio-ramos-alves-28013271/)
 
 
-[<img src="img/Github Header.png" width="200" alt="GitHub">(https://github.com/fabioramosalves)
+[<img src="img/Github Header.png" width="200" alt="GitHub">](https://github.com/fabioramosalves)
