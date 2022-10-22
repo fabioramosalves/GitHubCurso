@@ -22,4 +22,4 @@ __melhoria 1__, _melhoria 2_
 3. Sistema de bônus primeira compra
 
 
-<img src="Assets/icon.png" width="80" alt="GitHub">
+<img src="img/Github Header.png" width="80" alt="GitHub">
