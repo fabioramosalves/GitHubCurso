@@ -2,6 +2,6 @@
 
 Vamos criar um markdown 
 
-## Funcionalidades
+### Funcionalidades
 
-Checkout, Tela de produto, Catálogo, Home, Banner
+Checkout, __Tela de produto__, Catálogo, **Home**, Banner
