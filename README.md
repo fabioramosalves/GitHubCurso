@@ -1,3 +1,7 @@
 # GitHubCurso
-Repositorio para estudo GitHub
-# Alteração README
+
+Vamos criar um markdown 
+
+## Funcionalidades
+
+Checkout, Tela de produto, Catálogo, Home, Banner
