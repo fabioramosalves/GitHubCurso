@@ -44,4 +44,4 @@ public class Pessoa
 ### Inserindo uma lista de tarefa
 
 - [x] Css do rodapé
-- [] Tela de login
+- [ ] Tela de login
