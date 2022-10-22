@@ -10,9 +10,9 @@ __melhoria 1__, _melhoria 2_
 
 ### Linguagem do projeto:
 
-*java
-*JavaScript
+* ava
+* JavaScript
+* MySql
 
-
-1C#
-2C++
+1 C#
+2 C++
