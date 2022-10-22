@@ -43,7 +43,7 @@ public class Pessoa
 
 ### Código exemplo sql
 ```sql
-SELECT * FROM Pessoa where Name = 'Fabio Ramos Alves'
+SELECT * FROM Pessoa WHERE Name = 'Fabio Ramos Alves'
 ```
 
 ### Inserindo uma lista de tarefa
