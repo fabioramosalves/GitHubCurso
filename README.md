@@ -41,6 +41,11 @@ public class Pessoa
 }
 ```
 
+### Código exemplo sql
+```sql
+SELECT * FROM Pessoa where Name = 'Fabio Ramos Alves'
+```
+
 ### Inserindo uma lista de tarefa
 
 - [x] Css do rodapé
