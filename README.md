@@ -22,4 +22,4 @@ __melhoria 1__, _melhoria 2_
 3. Sistema de bônus primeira compra
 
 
-![GitHub](img/Github%20Header.png)
+![GitHub](img/Github%20Header.png= = 30x30)
