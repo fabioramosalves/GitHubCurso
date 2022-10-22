@@ -10,9 +10,11 @@ __melhoria 1__, _melhoria 2_
 
 ### Linguagem do projeto:
 
-* ava
+* Java
 * JavaScript
 * MySql
 
-1 C#
-2 C++
+### Funcionalidades a desenvolver
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
