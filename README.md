@@ -20,3 +20,6 @@ __melhoria 1__, _melhoria 2_
     2. Desconto diferenciado
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+
+![GitHub](C:\Estudo\Git\CursoGitHub\Github Header.png)
